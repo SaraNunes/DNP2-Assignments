@@ -1,0 +1,115 @@
+﻿<Window x:Class="Assignment6_Player.MainWindow"
+         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Media Player" Height="522.973" Width="800" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <MediaElement Name="MediaViewer" HorizontalAlignment="Left" Height="331" Margin="0,47,-0.4,0"
+                      VerticalAlignment="Top" Width="794" LoadedBehavior="Manual"
+                      MediaFailed="MediaPlayer_OnMediaFailed" />
+        <Button Name="OpenButton" HorizontalAlignment="Left" Margin="196,427,0,0"
+                VerticalAlignment="Top" Width="81"
+                Height="41" Click="OpenButton_Click" BorderThickness="2" BorderBrush="Black">
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Click">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <!-- Button green -> Button grey -->
+                            <ColorAnimation To="Green"
+                                            Storyboard.TargetProperty="(Button.Background).(SolidColorBrush.Color)"
+                                            FillBehavior="Stop"
+                                            Duration="0:0:1"
+                                            AutoReverse="True" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Width="44" TextAlignment="Center" VerticalAlignment="Center">
+                    <Run Text="Open" />
+                </TextBlock>
+            </StackPanel>
+        </Button>
+        <Button Name="PlayButton" HorizontalAlignment="Left" Margin="310,427,0,0"
+                VerticalAlignment="Top" Width="81"
+                Height="41" BorderThickness="2" BorderBrush="Black" Click="PlayButton_Click">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Width="44" TextAlignment="Center" VerticalAlignment="Center">
+                    <Run Text="Play" />
+                </TextBlock>
+            </StackPanel>
+            <Button.RenderTransform>
+                <RotateTransform x:Name="PlayTransform" Angle="0" />
+            </Button.RenderTransform>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Click">
+                    <BeginStoryboard>
+                        <!-- Rotate clockwise -->
+                        <Storyboard>
+                            <DoubleAnimation
+                                Storyboard.TargetName="PlayTransform"
+                                Storyboard.TargetProperty="(RotateTransform.Angle)"
+                                From="0.0" To="360" Duration="0:0:1" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
+        <Button Name="PauseButton" HorizontalAlignment="Left" Margin="429,427,0,0"
+                VerticalAlignment="Top" Width="81"
+                Height="41" Click="PauseButton_Click" BorderThickness="2" BorderBrush="Black">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Width="44" TextAlignment="Center" VerticalAlignment="Center">
+                    <Run Text="Pause" />
+                </TextBlock>
+            </StackPanel>
+            <Button.RenderTransform>
+                <RotateTransform x:Name="PauseTransform" Angle="360" />
+            </Button.RenderTransform>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Click">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <!-- Rotate counter-clockwise -->
+                            <DoubleAnimation
+                                Storyboard.TargetName="PauseTransform"
+                                Storyboard.TargetProperty="(RotateTransform.Angle)"
+                                From="360" To="0" Duration="0:0:1" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
+        <Button Name="StopButton" HorizontalAlignment="Left" Margin="547,427,0,0"
+                VerticalAlignment="Top" Width="81"
+                Height="41" Click="StopButton_OnClick" BorderThickness="2" BorderBrush="Black"
+                RenderTransformOrigin="0.767,0.522">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock x:Name="StopText" Width="44" TextAlignment="Center" VerticalAlignment="Center">
+                    <Run Text="Stop" />
+                </TextBlock>
+            </StackPanel>
+            <Button.Triggers>
+                <EventTrigger RoutedEvent="Button.Click">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <!-- Button visible -> Button transparent -> Button visible -->
+                            <DoubleAnimation
+                                Storyboard.TargetName="StopButton"
+                                Storyboard.TargetProperty="(Button.Opacity)"
+                                From="1" To="0" Duration="0:0:1" AutoReverse="True" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Button.Triggers>
+        </Button>
+        <Label Name="FilePlayingLabel" Content="" HorizontalAlignment="Left" Margin="41,10,0,0" VerticalAlignment="Top"
+               Width="709" />
+        <Slider Name="ProgressBar" HorizontalAlignment="Left" Margin="93,390,0,0" VerticalAlignment="Top" Width="691"
+                Height="15" ValueChanged="ProgressBar_OnValueChanged" />
+        <Label Name="ProgressLabel" HorizontalAlignment="Left" Margin="10,383,0,0" VerticalAlignment="Top"
+               Height="33" Width="56" RenderTransformOrigin="0.512,1.152" />
+    </Grid>
+</Window>

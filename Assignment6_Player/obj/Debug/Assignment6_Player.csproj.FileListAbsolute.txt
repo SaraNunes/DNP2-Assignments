@@ -1,0 +1,26 @@
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment6_Player\bin\Debug\Assignment6_Player.exe.config
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment6_Player\bin\Debug\Assignment6_Player.exe
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment6_Player\bin\Debug\Assignment6_Player.pdb
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\MainWindow.baml
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\MainWindow.g.cs
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\App.g.cs
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\Assignment6_Player_MarkupCompile.cache
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\Assignment6_Player.g.resources
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\Assignment6_Player.Properties.Resources.resources
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\Assignment6_Player.csproj.GenerateResource.cache
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\Assignment6_Player.exe
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\Assignment6_Player.pdb
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\Assignment6_Player.csprojAssemblyReference.cache
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment6_Player\bin\Debug\Assignment6_Player.exe.config
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment6_Player\bin\Debug\Assignment6_Player.exe
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment6_Player\bin\Debug\Assignment6_Player.pdb
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\Assignment6_Player.csprojAssemblyReference.cache
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\MainWindow.baml
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\MainWindow.g.cs
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\App.g.cs
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\Assignment6_Player_MarkupCompile.cache
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\Assignment6_Player.g.resources
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\Assignment6_Player.Properties.Resources.resources
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\Assignment6_Player.csproj.GenerateResource.cache
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\Assignment6_Player.exe
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment6_Player\obj\Debug\Assignment6_Player.pdb
