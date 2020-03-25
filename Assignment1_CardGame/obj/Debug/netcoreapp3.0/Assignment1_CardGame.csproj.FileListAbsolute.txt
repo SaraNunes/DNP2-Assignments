@@ -1,0 +1,16 @@
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment1_CardGame\bin\Debug\netcoreapp3.0\Assignment1_CardGame.exe
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment1_CardGame\bin\Debug\netcoreapp3.0\Assignment1_CardGame.deps.json
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment1_CardGame\bin\Debug\netcoreapp3.0\Assignment1_CardGame.runtimeconfig.json
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment1_CardGame\bin\Debug\netcoreapp3.0\Assignment1_CardGame.runtimeconfig.dev.json
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment1_CardGame\bin\Debug\netcoreapp3.0\Assignment1_CardGame.dll
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment1_CardGame\bin\Debug\netcoreapp3.0\Assignment1_CardGame.pdb
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment1_CardGame\obj\Debug\netcoreapp3.0\Assignment1_CardGame.csprojAssemblyReference.cache
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment1_CardGame\obj\Debug\netcoreapp3.0\Assignment1_CardGame.AssemblyInfoInputs.cache
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment1_CardGame\obj\Debug\netcoreapp3.0\Assignment1_CardGame.AssemblyInfo.cs
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment1_CardGame\obj\Debug\netcoreapp3.0\Assignment1_CardGame.dll
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment1_CardGame\obj\Debug\netcoreapp3.0\Assignment1_CardGame.pdb
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment1_CardGame\obj\Debug\netcoreapp3.0\Assignment1_CardGame.csprojAssemblyReference.cache
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment1_CardGame\obj\Debug\netcoreapp3.0\Assignment1_CardGame.AssemblyInfoInputs.cache
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment1_CardGame\obj\Debug\netcoreapp3.0\Assignment1_CardGame.AssemblyInfo.cs
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment1_CardGame\obj\Debug\netcoreapp3.0\Assignment1_CardGame.dll
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment1_CardGame\obj\Debug\netcoreapp3.0\Assignment1_CardGame.pdb
