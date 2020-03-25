@@ -1,0 +1,23 @@
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment7_Async\bin\Debug\Assignment7_Async.exe.config
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment7_Async\bin\Debug\Assignment7_Async.exe
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment7_Async\bin\Debug\Assignment7_Async.pdb
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\MainWindow.baml
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\MainWindow.g.cs
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\App.g.cs
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\Assignment7_Async_MarkupCompile.cache
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\Assignment7_Async.g.resources
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\Assignment7_Async.Properties.Resources.resources
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\Assignment7_Async.csproj.GenerateResource.cache
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\Assignment7_Async.exe
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\Assignment7_Async.pdb
+C:\Users\Sara Nunes\source\repos\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\Assignment7_Async.csprojAssemblyReference.cache
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\Assignment7_Async.csprojAssemblyReference.cache
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\MainWindow.baml
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\MainWindow.g.cs
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\App.g.cs
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\Assignment7_Async_MarkupCompile.cache
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\Assignment7_Async.g.resources
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\Assignment7_Async.Properties.Resources.resources
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\Assignment7_Async.csproj.GenerateResource.cache
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\Assignment7_Async.exe
+C:\Users\lapos\Downloads\DNP2-FinalAssignments\DNP2-FinalAssignments\Assignment7_Async\obj\Debug\Assignment7_Async.pdb
